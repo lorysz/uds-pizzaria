@@ -1,9 +1,13 @@
 # uds-pizzaria
 
 parametros da api:
+<br>
 string Tamanho
+<br>
 string Sabor
+<br>
 string Personalizacao
-
-Endpoint: 
+<br>
+Endpoint:
+<br>
 http://localhost/api/pedido/cadastrar
