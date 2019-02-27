@@ -1,6 +1,6 @@
 # uds-pizzaria
 
-parametros da api:
+Parametros da api:
 <br>
 string Tamanho
 <br>
